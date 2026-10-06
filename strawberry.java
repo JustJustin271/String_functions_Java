@@ -40,7 +40,7 @@ class Main {
 
         System.out.println("=== word.compareTo(string) ===");
         System.out.println("Comparing 'Strawberry' to 'Apricot': " + comparison1);
-        System.out.println("Comparing 'Apriot' to 'Strawberry': " + comparison2);
+        System.out.println("Comparing 'Apricot' to 'Strawberry': " + comparison2);
         System.out.println("Comparing 'Strawberry' to 'Strawberries': " + comparison3);
         System.out.println("");
 
@@ -63,7 +63,7 @@ class Main {
 
         System.out.println("=== word.equalsIgnoreCase(string) === ");
         System.out.println("Is 'Strawberry' the same word as 'STRAWBERRY'? : " + kindaEqual);
-        System.out.println("Is 'Starwberry' the same word as 'Apricot'? : " + kindaEqual2);
+        System.out.println("Is 'Strawberry' the same word as 'Apricot'? : " + kindaEqual2);
         System.out.println("");
 
         //====================================
